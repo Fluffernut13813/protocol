@@ -1,0 +1,35 @@
+
+{
+  "name": "fluffernut",
+  "version": "1.0.0",
+  "description": "Fluffernut is an AI-powered tool for automated cryptocurrency analysis, chart reading, and decision-making.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "ccxt": "^2.0.61",
+    "axios": "^0.27.2",
+    "chart.js": "^3.7.0",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.7",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/fluffernut.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/fluffernut/issues"
+  },
+  "homepage": "https://github.com/your-username/fluffernut#readme"
+}
